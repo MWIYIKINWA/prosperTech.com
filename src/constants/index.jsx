@@ -5,43 +5,48 @@ import { ShieldHalf } from "lucide-react";
 import { PlugZap } from "lucide-react";
 import { GlobeLock } from "lucide-react";
 
-import user1 from "../assets/profile-pictures/user1.jpg";
-import user2 from "../assets/profile-pictures/user2.jpg";
-import user3 from "../assets/profile-pictures/user3.jpg";
-import user4 from "../assets/profile-pictures/user4.jpg";
-import user5 from "../assets/profile-pictures/user5.jpg";
-import user6 from "../assets/profile-pictures/user6.jpg";
+import user1 from "../assets/profile-pictures/user1.png";
+import user2 from "../assets/profile-pictures/user2.png";
+import user3 from "../assets/profile-pictures/user3.png";
+import user4 from "../assets/profile-pictures/user4.png";
 
 export const navItems = [
+   { label: "Home", href: "/" },
   { label: "Projects", href: "/#projects" },
   { label: "Testimonials", href: "/#testimonials" },
   { label: "Services", href: "/#services" },
 ];
 
+export const emailJsDetails = { 
+  service_id: "service_nlbzjfr",
+  template_id : "template_iqli2sq",
+  public_key : "R8PZ6mgN_7ga8Pfjo" ,
+};
+
 export const testimonials = [
   {
     user: "Saul Martin Serebe",
     company: "Ssenge Baptist Church",
-    image: user1,
+    image: user2,
     text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
   },
   {
     user: "Rev Kafeero Ezekiel",
     company: "LIAB Ministries",
-    image: user2,
+    image: user4,
     text: "I couldn't be happier with the outcome of our project. The team's creativity and skills were instrumental in bringing our vision to life",
   },
   {
-    user: "David Johnson",
-    company: "Quantum Innovations",
-    image: user3,
+    user: "James Asaba",
+    company: "Hifiradio Uganda",
+    image: user1,
     text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable.",
   },
   {
     user: "Nina Mugerwa",
     company: "Personal Music Website",
-    image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail helped us achieve our goals faster than we thought possible. ",
+    image: user3,
+    text: "Working with the team at ProsperTech was a game-changer for our project. Their attention to detail helped us achieve our goals faster than we thought possible. ",
   },
 ];
 
