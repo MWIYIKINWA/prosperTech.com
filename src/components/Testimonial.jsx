@@ -1,5 +1,6 @@
 
 import { testimonials } from "../constants"
+import { Link } from "react-router-dom";
 
 const Testimonial = () => {
   return (
@@ -34,7 +35,9 @@ const Testimonial = () => {
        </div>
 
           <div className="flex justify-center">
-             <a className=" rounded border border-neutral-200 py-4 px-4 my-8 hover:border-orange-900 transition duration-200" href="">SEND YOUR REQUEST NOW</a>
+             <a className=" rounded border border-neutral-200 py-4 px-4 my-8 hover:border-orange-900 transition duration-200">
+               <Link to="/contact">SEND YOUR REQUEST NOW</Link>    
+             </a>
          </div>
 
     </div>
