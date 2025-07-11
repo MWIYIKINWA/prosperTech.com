@@ -177,7 +177,7 @@ const ContactForm = () => {
 
           <div className="flex justify-center flex-col sm:flex-row gap-4">
 
-             <input className=" rounded border border-neutral-200 py-4 px-4 my-8 hover:border-orange-900 transition duration-200" type="submit" value="SEND YOUR REQUEST NOW"/>
+             <input className=" rounded border border-neutral-200 py-4 px-4 my-8 hover:border-orange-900 transition duration-200" type="submit" value="SEND"/>
 
         </div>
 
