@@ -23,8 +23,8 @@ const Footer = () => {
 
 
                                   {/* logo */}
-                                  <div className="flex items-center justify-center flex-shrink-0">
-                                     <img className="h-10 w-10 mr-2" src={logo} alt="logo" />
+                                  <div className="flex items-center mr-20 justify-center flex-shrink-0">
+                                     <img className="h-10 w-10" src={logo} alt="logo" />
                                      <span className="text-x tracking-tight my-auto">ProsperTech</span>
                                   </div>
 
@@ -49,7 +49,7 @@ const Footer = () => {
 			</div>
 
 
-			<div className="text-center mb-10  w-full sm:w-full md:w-1/2 lg:w-1/3">
+			<div className="hidden md:block text-center mb-10  w-full sm:w-full md:w-1/2 lg:w-1/3">
 				<p className="pb-1 text-lg font-medium text-orange-700">Learn More</p>
 				<ul>
 	

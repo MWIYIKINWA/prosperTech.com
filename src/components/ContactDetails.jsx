@@ -23,7 +23,7 @@ const ContactDetails = () => {
 			<div className="flex flex-col mt-7 text-center md:text-left">
 				<h4 className="text-lg font-semibold">Mwiyikinwa Isaac</h4>
                 <p className="text-sm italic text-orange-700">Developer at ProsperTech</p>
-				<p className="text-neutral-700 mt-2">Every Solution We design, and every Application We deploy is guided by a belief: technology should serve people, amplify impact, and tell meaningful stories.</p>
+				<p className="text-neutral-500 mt-2">Every Solution We design, and every Application We deploy is guided by a belief: technology should serve people, amplify impact, and tell meaningful stories.</p>
 			</div>
 		</div>
 	</div>
@@ -43,7 +43,7 @@ const ContactDetails = () => {
 
          <div className="flex flex-row gap-5">
              <MailCheck />
-             <p>isaacmwiyikinwa08@prospertech.com</p>
+             <small>isaacmwiyikinwa08@prospertech.com</small>
           </div>
 
    </div>
