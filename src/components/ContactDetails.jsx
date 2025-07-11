@@ -41,9 +41,9 @@ const ContactDetails = () => {
              <p>+ (256) 787248298</p>
           </div>
 
-         <div className="flex flex-row gap-5">
+         <div className="hidden md:flex flex-row gap-5">
              <MailCheck />
-             <small>isaacmwiyikinwa08@prospertech.com</small>
+             <small>isaacmwiyikinwa08@gmail.com</small>
           </div>
 
    </div>

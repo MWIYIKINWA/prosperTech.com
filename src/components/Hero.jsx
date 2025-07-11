@@ -16,7 +16,8 @@ const Hero = () => {
        </p>
 
         <div className="flex mt-5">
-            <a className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800">
+            <a className="py-2 px-3 rounded-md bg-gradient-to-r from-orange-500 to-orange-800
+            hover:bg-gradient-to-l from-orange-500 to-orange-800 transition duration-200">
               <Link to="/contact">Reach Us Now</Link>
               </a>
         </div>

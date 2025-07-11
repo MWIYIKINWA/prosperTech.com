@@ -42,7 +42,7 @@ const Navbar = () => {
 
              {/* button */}
              <div className="hidden lg:flex">
-                 <a className="py-2 px-3 border rounded-md bg-gradient-to-r from-orange-500 to-orange-800">
+                 <a className="py-2 px-3 border rounded-md bg-gradient-to-r from-orange-500 to-orange-800 hover:bg-gradient-to-l from-orange-500 to-orange-800 transition duration-200">
                    <Link to="/contact"> Contact Us</Link>
                     </a>
                  </div>
@@ -77,7 +77,7 @@ const Navbar = () => {
 
            
              <div className="flex">
-                 <a className="py-2 mt-3 px-3 border rounded-md bg-gradient-to-r from-orange-500 to-orange-800 "><Link to="/contact"> Contact Us</Link></a>
+                 <a className="py-2 mt-3 px-3 border rounded-md bg-gradient-to-r from-orange-500 to-orange-800 hover:bg-gradient-to-l from-orange-500 to-orange-800 transition duration-200 "><Link to="/contact"> Contact Us</Link></a>
                  </div>
 
 
