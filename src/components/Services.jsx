@@ -9,7 +9,7 @@ const Services = () => {
         <div className="text-center mt-20">
 
             <span className="bg-neutral-900 h-6 px-3 py-2  uppercase text-orange-500 rounded-full text-sm font-medium">
-                ProsperTech Services
+                ProsperSites Services
             </span>
 
             <h2 className="text-3xl sm:text-5xl lg:text-6xl tracking-wide mt-5">

@@ -25,7 +25,7 @@ const Footer = () => {
                                   {/* logo */}
                                   <div className="flex items-center mr-20 justify-center flex-shrink-0">
                                      <img className="h-10 w-10" src={logo} alt="logo" />
-                                     <span className="text-x tracking-tight my-auto">ProsperTech</span>
+                                     <span className="text-x tracking-tight my-auto">ProsperSites</span>
                                   </div>
 
 				</a>

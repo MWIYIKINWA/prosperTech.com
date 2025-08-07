@@ -22,7 +22,7 @@ const ContactDetails = () => {
 			<img src={isaac} alt="" className="self-center flex-shrink-0 w-48 h-50 border rounded-full md:justify-self-start bg-gray-500 border-gray-300" />
 			<div className="flex flex-col mt-7 text-center md:text-left">
 				<h4 className="text-lg font-semibold">Mwiyikinwa Isaac</h4>
-                <p className="text-sm italic text-orange-700">Developer at ProsperTech</p>
+                <p className="text-sm italic text-orange-700">Developer at ProsperSites</p>
 				<p className="text-neutral-500 mt-2">Every Solution We design, and every Application We deploy is guided by a belief: technology should serve people, amplify impact, and tell meaningful stories.</p>
 			</div>
 		</div>
