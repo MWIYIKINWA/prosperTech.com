@@ -131,7 +131,7 @@ export const projects = [
       "Fully functional",
       "Admin Dashboard",
       "Modern UI",
-      "Wordpress",
+      "Javascript/PHP",
     ],
     link:"https://trinitygraceguesthouse.com",
   },
