@@ -39,7 +39,7 @@ const Projects = () => {
                         </ul>
 
 
-                        <a href={project.link} className=" inline-flex justify-center tracking-tight mt-3 align-items border py-3 rounded-full border-orange-500 w-full hover:bg-orange-900 transition border-orange-900 duration-200">Check it Out</a>
+                        <a href={project.link} className=" inline-flex justify-center tracking-tight mt-3 align-items border py-3 rounded-full border-orange-500 w-full hover:bg-orange-900 transition border-orange-900 duration-200"  target="_blank" >Check it Out</a>
                        </div>
 
                     </div>

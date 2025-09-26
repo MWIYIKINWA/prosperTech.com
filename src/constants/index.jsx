@@ -91,28 +91,29 @@ export const services = [
 
 
 export const projects = [
+     {
+    title: "Contivibe Media",
+    category: "Website",
+    features: [
+      "Modern React UI",
+      "Laravel CMS Backend",
+      "Live Radio Integration",
+      "Fast Performance"
+    ],
+     link:"https://contivibemedia.com",
+  },
     {
-    title: "DST Mobile",
-    category: "Mobile App",
+    title: "Church Website",
+    category: "Website",
     features: [
-      "Tracking field sales",
-       "Admin Dashboard",
-      "Modern UI",
-      "Cross platform App",
+      "Mordern UI and Backend CMS",
+      "Fast Performance",
+      "Real Sermons",
+      "Real Time Analytics",
     ],
-     link:"https://github.com/MWIYIKINWA/DSTMobile_app/blob/main/README.md",
+     link:"https://ssengebaptistchurch.org",
   },
-  {
-    title: "SBC Church App",
-    category: "Web and Mobile",
-    features: [
-      "Fully functional",
-      "Admin Dashboard",
-      "Modern UI",
-      "React, Strapi Backend",
-    ],
-    link:"https://ssengebaptistchurch.org/",
-  },
+ ,
     {
     title: "Radio Website",
     category: "Website",
@@ -146,6 +147,28 @@ export const projects = [
     ],
      link:"https://liabministries.org/",
   },
+    {
+    title: "DST Mobile",
+    category: "Mobile App",
+    features: [
+      "Tracking field sales",
+       "Admin Dashboard",
+      "Modern UI",
+      "Cross platform App",
+    ],
+     link:"https://github.com/MWIYIKINWA/DSTMobile_app/blob/main/README.md",
+  },
+  {
+    title: "SBC Church App",
+    category: "Web and Mobile",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "React, Strapi Backend",
+    ],
+    link:"https://ssengebaptistchurch.org/",
+  }
 ];
 
 export const links1 = [
