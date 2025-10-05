@@ -102,6 +102,17 @@ export const projects = [
     ],
      link:"https://contivibemedia.com",
   },
+   {
+    title: "Trinity Guest House",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "Javascript/PHP",
+    ],
+    link:"https://trinitygraceguesthouse.com",
+  },
     {
     title: "Church Website",
     category: "Website",
@@ -124,17 +135,6 @@ export const projects = [
       "Real Time Analytics",
     ],
      link:"https://hifiradios.com",
-  },
-      {
-    title: "Trinity Guest House",
-    category: "Web",
-    features: [
-      "Fully functional",
-      "Admin Dashboard",
-      "Modern UI",
-      "Javascript/PHP",
-    ],
-    link:"https://trinitygraceguesthouse.com",
   },
   {
     title: "LIAB Website",
