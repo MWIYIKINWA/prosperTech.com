@@ -118,7 +118,7 @@ export const projects = [
     category: "Website",
     features: [
       "Mordern UI and Backend CMS",
-      "Fast Performance",
+      "Wordpress",
       "Real Sermons",
       "Real Time Analytics",
     ],
@@ -132,7 +132,7 @@ export const projects = [
       "Live Radio Integration",
       "Mordern UI",
       "Fast Performance",
-      "Real Time Analytics",
+      "WordPress",
     ],
      link:"https://hifiradios.com",
   },
@@ -159,15 +159,15 @@ export const projects = [
      link:"https://github.com/MWIYIKINWA/DSTMobile_app/blob/main/README.md",
   },
   {
-    title: "SBC Church App",
+    title: "MyChc App",
     category: "Web and Mobile",
     features: [
-      "Fully functional",
-      "Admin Dashboard",
-      "Modern UI",
-      "React, Strapi Backend",
+      "Ministry App",
+      "React Admin Dashboard",
+      "Laravel/PHP Api",
+      "Android/IOS",
     ],
-    link:"https://ssengebaptistchurch.org/",
+    link:"https://github.com/MWIYIKINWA/myChc",
   }
 ];
 
