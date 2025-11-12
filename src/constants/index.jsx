@@ -95,7 +95,7 @@ export const projects = [
     title: "Contivibe Media",
     category: "Website",
     features: [
-      "Modern React UI",
+      "TailWind and PHP",
       "Laravel CMS Backend",
       "Live Radio Integration",
       "Fast Performance"
