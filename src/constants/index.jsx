@@ -103,6 +103,17 @@ export const projects = [
      link:"https://contivibemedia.com",
   },
    {
+    title: "Nina Mugerwa",
+    category: "Website",
+    features: [
+      "WordPress",
+      "Artist Website",
+      "Custom Posts",
+      "Fast Performance"
+    ],
+     link:"https://ninamugerwa.com/",
+  },
+   {
     title: "Trinity Guest House",
     category: "Web",
     features: [
