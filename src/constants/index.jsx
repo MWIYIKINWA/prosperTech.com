@@ -112,6 +112,16 @@ export const projects = [
       "Fast Performance"
     ],
      link:"https://ninamugerwa.com/",
+  }, {
+    title: "MyChc App",
+    category: "Web and Mobile",
+    features: [
+      "Ministry App",
+      "React Admin Dashboard",
+      "Laravel/PHP Api",
+      "Android/IOS",
+    ],
+    link:"https://github.com/MWIYIKINWA/myChc",
   },
    {
     title: "Trinity Guest House",
