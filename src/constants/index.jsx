@@ -124,7 +124,7 @@ export const projects = [
     link:"https://github.com/MWIYIKINWA/myChc",
   },
    {
-    title: "Trinity Guest House",
+    title: "Epiphany Music Africa",
     category: "Web",
     features: [
       "Fully functional",
@@ -132,10 +132,10 @@ export const projects = [
       "Modern UI",
       "Javascript/PHP",
     ],
-    link:"https://trinitygraceguesthouse.com",
+    link:"https://epiphanymusicafrica.org",
   },
     {
-    title: "Church Website",
+    title: "SBC Website",
     category: "Website",
     features: [
       "Mordern UI and Backend CMS",
@@ -147,15 +147,15 @@ export const projects = [
   },
  ,
     {
-    title: "Radio Website",
+    title: "Jesus Alive Website",
     category: "Website",
     features: [
-      "Live Radio Integration",
+      "Church Website",
       "Mordern UI",
       "Fast Performance",
       "WordPress",
     ],
-     link:"https://hifiradios.com",
+     link:"https://jesusalivechurch.org",
   },
   {
     title: "LIAB Website",
