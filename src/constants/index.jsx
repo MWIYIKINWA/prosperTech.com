@@ -123,16 +123,7 @@ export const projects = [
     ],
     link:"https://epiphanymusicafrica.org",
   },
-    title: "Angelic Psalms",
-    category: "Web",
-    features: [
-      "Music Website",
-      "Admin Dashboard",
-      "Modern UI",
-      "Javascript/PHP",
-    ],
-    link:"https://epiphanymusicafrica.org",
-  } {
+   {
     title: "MyChc App",
     category: "Web and Mobile",
     features: [
