@@ -112,6 +112,16 @@ export const projects = [
       "Fast Performance"
     ],
      link:"https://ninamugerwa.com/",
+  },{
+    title: "Epiphany Music Africa",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "Javascript/PHP",
+    ],
+    link:"https://epiphanymusicafrica.org",
   }, {
     title: "MyChc App",
     category: "Web and Mobile",
@@ -122,17 +132,6 @@ export const projects = [
       "Android/IOS",
     ],
     link:"https://github.com/MWIYIKINWA/myChc",
-  },
-   {
-    title: "Epiphany Music Africa",
-    category: "Web",
-    features: [
-      "Fully functional",
-      "Admin Dashboard",
-      "Modern UI",
-      "Javascript/PHP",
-    ],
-    link:"https://epiphanymusicafrica.org",
   },
     {
     title: "SBC Website",
