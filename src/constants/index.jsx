@@ -178,17 +178,6 @@ export const projects = [
     ],
      link:"https://github.com/MWIYIKINWA/DSTMobile_app/blob/main/README.md",
   },
-  {
-    title: "MyChc App",
-    category: "Web and Mobile",
-    features: [
-      "Ministry App",
-      "React Admin Dashboard",
-      "Laravel/PHP Api",
-      "Android/IOS",
-    ],
-    link:"https://github.com/MWIYIKINWA/myChc",
-  }
 ];
 
 export const links1 = [
