@@ -122,7 +122,37 @@ export const projects = [
       "Javascript/PHP",
     ],
     link:"https://epiphanymusicafrica.org",
-  },
+  },{
+    title: "Angelic Psalms",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "Javascript/PHP",
+    ],
+    link:"https://angelicpsalms.org",
+  },{
+    title: "ChordsTalk Studios",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "Javascript/PHP",
+    ],
+    link:"https://chordstalkstudios.com",
+  },{
+    title: "EMMC",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "Javascript/PHP",
+    ],
+    link:"https://www.estherministrymukono.org/",
+  }, 
    {
     title: "MyChc App",
     category: "Web and Mobile",
