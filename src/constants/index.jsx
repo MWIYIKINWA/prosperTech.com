@@ -122,6 +122,38 @@ export const projects = [
       "Javascript/PHP",
     ],
     link:"https://epiphanymusicafrica.org",
+  }
+   ,
+   {
+    title: "Vyombo Vya Heshima",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "Javascript/PHP",
+    ],
+    link:"https://vyombogroup.org/",
+  },{
+    title: "Victors Child Foundation",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashboard",
+      "Modern UI",
+      "Javascript/PHP",
+    ],
+    link:"https://victorschildfoundation.org/",
+  },{
+    title: "Triniy Grace Guest House",
+    category: "Web",
+    features: [
+      "Fully functional",
+      "Admin Dashbord",
+      "Modern UI",
+      "Booking/Reporting",
+    ],
+    link:"https://trinitygraceguesthouse.com",
   },{
     title: "Angelic Psalms",
     category: "Web",
